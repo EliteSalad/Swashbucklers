@@ -1,0 +1,18 @@
+Game Management Music:
+http://soundimage.org/fantasywonder/
+Game Battle Music:
+http://soundimage.org/wp-content/uploads/2017/09/Strangeness.mp3
+Ambient Music:
+http://soundimage.org/sfx-environments/
+Music ON Image:
+https://cdn1.iconfinder.com/data/icons/basic-vol-3/16/volume_sound_mute_on_off_track-512.png
+Music Off Image:
+https://cdn1.iconfinder.com/data/icons/basic-vol-3/16/volume_sound_mute_on_off_track_block-512.png
+Splashing Rock:
+http://soundbible.com/2100-Splash-Rock-In-Lake.html
+Ship sinking:
+https://www.youtube.com/watch?v=5kEZaBS167A
+Cargo pickup:
+http://soundimage.org/sfx-ui/
+AuctionSell:
+http://www.wowhead.com/sounds/name:auction
